@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Aloha
 
-## Getting Started
+## 📦 Tech Stack
+ - Next.js 
+ - React.js
+ - Typescript
+ - Tailwind CSS
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 🎯 Code Practices
+ - API Cacheing
+ - Error Boundry
+ - Dynamic Component Loading
+ - Next App Router
+ - Fallback UI
+ - Image Optimization With Next/Image
+ - Anchor Optimization
+ - Custom Hook 
+ - Responsive Layout
+ - Suitable Custom Scroll
+ - Pixel Perfect Design
+ 
+ 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 👀 Screenshots 
+![Screenshot_1](https://github.com/shatishdesai202/kimo-task/assets/66472172/dc8d04a0-e401-482a-bf58-fa39d4864ff7)
+___
+![Screenshot_2](https://github.com/shatishdesai202/kimo-task/assets/66472172/3b76fe72-e6d0-4f81-8fa1-a246dd55ecd2)
+___
+![Screenshot_3](https://github.com/shatishdesai202/kimo-task/assets/66472172/10d866e7-2141-4ed9-b73b-027b808fbd81)
+___
+![Screenshot_4](https://github.com/shatishdesai202/kimo-task/assets/66472172/70f96edf-6e8f-4d8b-a68c-40c63c8dca56)
+___
+![Screenshot_5](https://github.com/shatishdesai202/kimo-task/assets/66472172/c5100093-db2d-4d3f-a01a-c1174797f49b)
+___
+![Screenshot_6](https://github.com/shatishdesai202/kimo-task/assets/66472172/ab69151d-77ed-46aa-9889-c64a0955007f)
+___
+![Screenshot_7](https://github.com/shatishdesai202/kimo-task/assets/66472172/5f9f5155-cdcf-4413-baaa-a421d5b3abcc) 
